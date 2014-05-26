@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\bin\Debug\ChatRoomSharpClient.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\bin\Debug\ChatRoomSharpClient.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\bin\Debug\ChatRoomSharpClient.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\obj\Debug\ChatRoomSharpClient.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\obj\Debug\ChatRoomSharpClient.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\obj\Debug\ChatRoomSharpClient.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\obj\Debug\ChatRoomSharpClient.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharpClient\ChatRoomSharpClient\obj\Debug\ChatRoomSharpClient.pdb

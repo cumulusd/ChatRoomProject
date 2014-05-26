@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ChatRoomSharp.ChatRoom" CodeBehind="ChatRoom.svc.cs" %>

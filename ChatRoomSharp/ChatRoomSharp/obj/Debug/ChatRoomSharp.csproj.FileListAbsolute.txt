@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharp\ChatRoomSharp\bin\ChatRoomSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharp\ChatRoomSharp\bin\ChatRoomSharp.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharp\ChatRoomSharp\obj\Debug\ChatRoomSharp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharp\ChatRoomSharp\obj\Debug\ChatRoomSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\ChatRoomSharp\ChatRoomSharp\obj\Debug\ChatRoomSharp.pdb
